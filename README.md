@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Using [https://github.com/nkdas91/ckeditor5-classic-plus](https://github.com/nkdas91/ckeditor5-classic-plus)
+
+and
+## Using [https://github.com/procodeguide/ProCodeGuide.Samples.FileUpload](https://github.com/procodeguide/ProCodeGuide.Samples.FileUpload)
+
+and
+
+## Using [https://github.com/aram87/FileUploadApi](https://github.com/aram87/FileUploadApi)
+
 ## Available Scripts
 
 In the project directory, you can run:
